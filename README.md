@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fujiuchi7se&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fujiuchi7se&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=fujiuchi7se&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
