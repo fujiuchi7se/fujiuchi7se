@@ -1,4 +1,4 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=fujiuchi7se&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **fujiuchi7se/fujiuchi7se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
